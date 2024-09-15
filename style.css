@@ -1,0 +1,32 @@
+
+
+*{
+    box-sizing: border-box;
+      margin:0;
+      padding:0;
+}
+
+body{
+   width:100vw;
+    height:100vh;
+}
+.top-banner{
+    background-color: #4fb3d4;
+    background-image: url(./assets/headerimage.png);
+    background-size: 300px;
+    margin-bottom: 20px;
+
+}
+.small-bold-text{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.banner-text{
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    padding: 15px 30px;
+    text-align: center
+}
+/* navbar design */
+
+
